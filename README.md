@@ -12,7 +12,7 @@
 - Feature Selection
 
 ### Modeling
-##### Preliminary Model using 5 modeling techniques
+##### Preliminary Model using 5 modeling techniques, out of which moved forward to logistic regression and gradient boosting classifier.
 - Target class labeling
 - Class Balancing using SMOTE and random Undersampler
 - Polynimial Features addition
@@ -21,3 +21,8 @@
 ### Evaluation
 Using the model accuracy for cross-validation, training and testing sets. Also looked at idividual class F1 scores to assess the errors.
 
+### Final Model
+Reached an accuracy of 97.4% with a very simple model (the evaluation metrics were all very close to ascertain no overfitting)
+
+### Conclusion
+The error mainly persisits around QSOs, whcih has the least F1 score out of the 3 classes. Currently the model is slightly biased but could be improved with the addition of new informative features.
