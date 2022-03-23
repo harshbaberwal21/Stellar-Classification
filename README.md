@@ -26,3 +26,6 @@ Reached an accuracy of 97.4% with a very simple model (the evaluation metrics we
 
 ### Conclusion
 The error mainly persisits around QSOs, whcih has the least F1 score out of the 3 classes. Currently the model is slightly biased but could be improved with the addition of new informative features.
+
+### Citations
+fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17. Retrieved January 15th, 2022 from https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17.
