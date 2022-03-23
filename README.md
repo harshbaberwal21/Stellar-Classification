@@ -3,7 +3,7 @@ Stellar Classification using SDSS17 Dataset
  
 Today, machine learning is widely used in scientific community, helping advance the systems and theories in place. The same pertains to machine learning in astronomy. In this project, I tried to predict the stellar object type by looking at the values of various filters (red, infrared, UV etc.) in the photometric system.
 
-## Steps followed:
+## Process Overview:
 ### EDA
 - Visual EDA
 - Univariate Statistical Analysis
