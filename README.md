@@ -15,13 +15,14 @@ Today, machine learning is widely used in scientific community, helping advance 
 - Outlier treatment
 - Data Range Constraints etc.
 
-#### ![Target Classes Distibution](https://github.com/harshbaberwal21/Stellar-Classification/blob/d29dd2879b274ac51a61e7923aedce1ca60ed3cd/Class_Dist.png = 250x200)
+#### ![Target Classes Distibution](<img src="https://[your-image-url.type](https://github.com/harshbaberwal21/Stellar-Classification/blob/d29dd2879b274ac51a61e7923aedce1ca60ed3cd/Class_Dist.png)" width="250" height="200">)
 
 ### Data Processing
 - Feature Selection and Engineering
 - Handling multi-collinearity using PCA
 
 #### ![Selected features distribution](https://github.com/harshbaberwal21/Stellar-Classification/blob/d29dd2879b274ac51a61e7923aedce1ca60ed3cd/Features_BoxPlot.png = 200x300)
+
 
 ### Modeling
 ##### Preliminary Model using 5 modeling techniques, out of which logistic regression and KNN classifier were taken forward.
