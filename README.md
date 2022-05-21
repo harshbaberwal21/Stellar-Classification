@@ -16,7 +16,8 @@ Today, machine learning is widely used in scientific community, helping advance 
 - Data Range Constraints etc.
 
 #### Target Classes Distibution
-<img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/d29dd2879b274ac51a61e7923aedce1ca60ed3cd/Class_Dist.png)" width="250" height="200">
+<img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/c5097dbf5506dc1817246b1ff5b7377a89e8254b/Class_Dist.png" width="250" height="200">
+
 
 ### Data Processing
 - Feature Selection and Engineering
