@@ -6,6 +6,9 @@ Today, machine learning is widely used in scientific community, helping advance 
 
 
 ## Files:
+Data/stellar_classification.csv
+Data/stellar.csv
+Data/stellar_faetures.csv
 
 
 ## Process Overview:
@@ -15,15 +18,14 @@ Today, machine learning is widely used in scientific community, helping advance 
 - Outlier treatment
 - Data Range Constraints etc.
 
-#### Target Classes Distibution
+##### Target Classes Distibution
 <img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/c5097dbf5506dc1817246b1ff5b7377a89e8254b/Class_Dist.png" width="400" height="320">
-
 
 ### Data Processing
 - Feature Selection and Engineering
 - Handling multi-collinearity using PCA
 
-#### Selected features distribution
+##### Selected features distribution
 <img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/d29dd2879b274ac51a61e7923aedce1ca60ed3cd/Features_BoxPlot.png" width="550" height="300">
 
 ### Modeling
