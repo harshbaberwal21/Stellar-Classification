@@ -19,14 +19,14 @@ Data/stellar_faetures.csv
 - Data Range Constraints etc.
 
 ##### Target Classes Distibution
-<img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/c5097dbf5506dc1817246b1ff5b7377a89e8254b/Class_Dist.png" width="300" height="370">
+<img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/c5097dbf5506dc1817246b1ff5b7377a89e8254b/Class_Dist.png" width="630" height="611">
 
 ### Data Processing
 - Feature Selection and Engineering
 - Handling multi-collinearity using PCA
 
 ##### Selected features distribution
-<img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/d29dd2879b274ac51a61e7923aedce1ca60ed3cd/Features_BoxPlot.png" width="500" height="300">
+<img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/d29dd2879b274ac51a61e7923aedce1ca60ed3cd/Features_BoxPlot.png" width="600" height="400">
 
 ### Modeling
 ##### Preliminary Model using 5 modeling techniques, out of which logistic regression and KNN classifier were taken forward.
