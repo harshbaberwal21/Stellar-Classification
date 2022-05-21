@@ -19,7 +19,7 @@ Data/stellar_faetures.csv
 - Data Range Constraints etc.
 
 ##### Target Classes Distibution
-<img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/c5097dbf5506dc1817246b1ff5b7377a89e8254b/Class_Dist.png" width="630" height="611">
+<img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/c5097dbf5506dc1817246b1ff5b7377a89e8254b/Class_Dist.png" width="500" height="480">
 
 ### Data Processing
 - Feature Selection and Engineering
