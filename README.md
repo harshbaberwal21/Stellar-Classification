@@ -1,14 +1,14 @@
-# Stellar
-Stellar Classification using SDSS17 Dataset
+# **Stellar Objects Classification**
+*using SDSS17 Dataset.*
  
 ## Intention
-In this project, I tried to predict the stellar object type by looking at the values of various filters (red, infrared, UV etc.) in the telescope photometric system.
+In this project, I tried to predict the stellar objects as galaxies, starts or quasars by looking at the values of various filters (red, infrared, UV etc.) in the telescope photometric system and other relevant data.
 
 
 ## Files:
-Data/stellar_classification.csv
-Data/stellar.csv
-Data/stellar_faetures.csv
+- Data/stellar_classification.csv
+- Data/stellar.csv
+- Data/stellar_faetures.csv
 
 
 ## Process Overview:
