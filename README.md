@@ -2,7 +2,7 @@
 Stellar Classification using SDSS17 Dataset
  
 ## Intention
-Today, machine learning is widely used in scientific community, helping advance the systems and theories in place. The same pertains to machine learning in astronomy. In this project, I tried to predict the stellar object type by looking at the values of various filters (red, infrared, UV etc.) in the telescope photometric system.
+In this project, I tried to predict the stellar object type by looking at the values of various filters (red, infrared, UV etc.) in the telescope photometric system.
 
 
 ## Files:
@@ -14,7 +14,7 @@ Data/stellar_faetures.csv
 ## Process Overview:
 
 ### EDA and Data Pre-Processing
-- Visual and numerical
+- Visual and Numerical
 - Outlier treatment
 - Data Range Constraints etc.
 
@@ -23,7 +23,7 @@ Data/stellar_faetures.csv
 
 ### Data Processing
 - Feature Selection and Engineering
-- Handling multi-collinearity using PCA
+- Handling multi-collinearity
 
 ##### Selected features distribution
 <img src="https://github.com/harshbaberwal21/Stellar-Classification/blob/d29dd2879b274ac51a61e7923aedce1ca60ed3cd/Features_BoxPlot.png" width="600" height="400">
